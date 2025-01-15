@@ -13,7 +13,7 @@ Talk about the SE process and other technical tools you are going to useList you
 
 # RELEASE PLANNING DOCUMENT 
 ### Objective
-To develop software requirements (product and sprint backlogs). This document will detail the system which is stated in the project proposal.Be as detailed as possible You will be able to revise it slightly later
+To develop software requirements (product and sprint backlogs). This document will detail the system which is stated in the project proposal.Be as detailed as possiblem, you will be able to revise it slightly later
 
 ### Tasks
 - [ ] Think, discuss about the requirements (user-stories) and prepareFind a tool to manage the user-storiesInvite the TA to your release planning meeting to finalize the requirements
