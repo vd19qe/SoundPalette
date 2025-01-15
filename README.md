@@ -11,11 +11,11 @@ This is the main GitHub repository for SoundPalette. The project is split into t
 2. [SoundPaletteUI](https://github.com/WilliamSEWhite/SoundPaletteUI)
 
 ## Team Members
-| Team Member Name                          | Student Number   | Primary Role             | Secondary Role       |
-|-------------------------------------------|------------------|--------------------------|----------------------|
-| [Parth Chauhan](mailto:pc19kt@brocku.ca)  | 6860795          | Product Owner            | Developer            |
-| [Victoria Danh](mailto:vd19qe@brocku.ca)  | 6851547          | Scrum Master             | Front End Developer  |
-| [Prab Khokhar](mailto:pk21le@brocku.ca)   | 7348915          | Research Support         | Developer            |
-| [Kaija Sproxton](mailto:ks21lk@brocku.ca) | 7267131          | Documentation Specialist | Developer            |
-| [William White](mailto:ww18fj@brocku.ca)  | 6714091          | Lead Developer           | Full Stack Developer |
-| [James Windjack](mailto:jw17rm@brocku.ca) | 6366371          | Assistant Developer      | Full Stack Developer |
+| Team Member Name                          | Primary Role             | Secondary Role       |
+|-------------------------------------------|--------------------------|----------------------|
+| [Parth Chauhan](mailto:pc19kt@brocku.ca)  | Product Owner            | Developer            |
+| [Victoria Danh](mailto:vd19qe@brocku.ca)  | Scrum Master             | Front End Developer  |
+| [Prab Khokhar](mailto:pk21le@brocku.ca)   | Research Support         | Developer            |
+| [Kaija Sproxton](mailto:ks21lk@brocku.ca) | Documentation Specialist | Developer            |
+| [William White](mailto:ww18fj@brocku.ca)  | Lead Developer           | Full Stack Developer |
+| [James Windjack](mailto:jw17rm@brocku.ca) | Assistant Developer      | Full Stack Developer |
