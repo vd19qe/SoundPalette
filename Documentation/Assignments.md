@@ -37,7 +37,7 @@ Details your system and provide screenshots
 - [ ] The meeting will serve as a group health check to ensure that all is on schedule and to voice any concerns.
 
 ### Due Dates
-- [ ] Deadline for the progress report 1: Sunday 23rd by 23:59.
+- [ ] Deadline for the progress report 1: Sunday 23rd February by 23:59.
 - [ ] Deadline for the progress report 2: Sunday 22nd March by 23:59
 
 
