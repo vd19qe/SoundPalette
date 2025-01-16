@@ -1,4 +1,7 @@
-## Setting up Android Studio
+## Setting up the Android Emulator
+- The Android Emulator is a virtual device that allows you to test your app without needing a physical device.
+- It simulates various Android devices with different screen sizes, resolutions, and Android versions.
+
 1. Click the three dots for more options > Virtual Device Manager
 
 ![1](Screenshots/1.png)
