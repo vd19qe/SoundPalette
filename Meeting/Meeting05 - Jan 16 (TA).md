@@ -63,7 +63,8 @@
 | Sprint 7    | Apr 6 - Apr 11   | Software testing and fine-tuning |
 
 
-## Sprint 1 Responsbilities
+## Resource Allocation
+### Sprint 1
 | Sprint # | Name               | Responsbility                     |
 |----------| ------------------ | ----------------------------------|
 | Sprint 1 | Will               | Technical design                  |
@@ -72,7 +73,7 @@
 | Sprint 1 | Will               | API Server Set-up                 |
 
 
-## Sprint 2 Responsbilities
+### Sprint 2
 | Sprint # | Name               | Responsbility                     |
 |----------| ------------------ | ----------------------------------|
 | Sprint 2 | Will               | Database                          |
