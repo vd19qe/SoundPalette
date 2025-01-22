@@ -5,8 +5,8 @@
 **Location: ST238 - Library Main Floor**
 
 ## Agenda 
-- [x] Technical design
-- [ ] UI design
+- [ ] Technical design
+- [x] UI design
 - [ ] Database system design
 
 ## Attendance
