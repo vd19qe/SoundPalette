@@ -24,6 +24,7 @@
 
 ## Sprint 2
 - We will begin to have every begin their individual work and responsibilities as follows:
+
 | Sprint # | Name               | Responsbility                     |
 |----------| ------------------ | ----------------------------------|
 | Sprint 2 | Parth              | Login UI                          |
