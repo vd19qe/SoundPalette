@@ -15,6 +15,16 @@
 - [ ] **Finalize Communication Plan:** Ensure everyone understands how progress will be tracked and communicated.
 - [ ] **Resource Allocation:** Assign roles and responsibilities for the release.
 
+## Attendance
+- [x] Parth Chauhan
+- [x] Victoria Danh
+- [x] Prab Khokhar
+- [x] Kaija Sproxton
+- [x] William White
+- [x] James Windjack
+- [x] Brendan Park
+- [ ] Naser Ezzati-Jivan
+      
 ## Review Goals and Scope
 - The objective of SoundPalette is to offer the general public a social media platform catered towards artists, ranging from poets to music producers to musicians to visual artists.
 - Our app's main goal is to provide the users the ability to post their work (text, images and audio), collaborate through direct messaging, and interact with other accounts by liking, commenting, following and subscribing to one another.
