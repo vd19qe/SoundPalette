@@ -6,7 +6,7 @@
 
 
 ## Agenda 
-- [ ] Technical design
+- [x] Technical design
 - [ ] UI design
 - [ ] Database system design
 
@@ -21,7 +21,7 @@
 - We still need to figure out the colour scheme, logo, icons etc.
 - UI Design for Direct Messages, Events and Monetization were not completed and will be revisited in Sprint 4 and 5.
 
-![Current UI Design Ideas](Screenshots/UIDesign01.png)
+![UI Design](Screenshots/UIDesign01.png)
 
 
 ## Next Steps
