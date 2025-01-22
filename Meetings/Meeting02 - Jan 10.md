@@ -4,7 +4,6 @@
 
 **Location: 503B – Brock University Library**
 
-
 ## Agenda 
 - [x] Finalize Project 
 - [x] Project Objective 
@@ -13,23 +12,27 @@
 - [x] Project Discussion 
 - [x] Discuss next steps/planning 
 
+## Attendance
+- [x] Parth Chauhan
+- [x] Victoria Danh
+- [x] Prab Khokhar
+- [x] Kaija Sproxton
+- [x] William White
+- [x] James Windjack
 
 ## Finalize Project Idea 
 - App Name: SoundPalette 
 - Platform: Android App 
 - Main Idea: Social Media Platform for Artists (musicians, art work, producers, song-writers etc) 
 
- 
 ## Existing Problem 
 - There does not currently exist a social media platform for dedicated artists to collaborate, display their work or grow a following 
 - Many artists will share their work with multiple existing social media platforms such as YouTube, Instagram, TikTok, Twitter etc 
-
 
 ## Importance 
 - SoundPalette fills in this niche that is designed and dedicated for artist to collaborate and showcase their work all in one space 
 - Provides exposure of smaller scaled artists to grow their network where their posts are currently getting lost in cooking reels and influencer’s post of their vacation 
 - Artists thrive working as a community and often get inspired by one another. SoundPalette helps curate and foster this environment, allowing the art industry to prosper and grow 
-
 
 ## Description 
 - Users are able to create an account and select a role and genre 
@@ -42,7 +45,6 @@
 - Artists can specify in their bio is they are available for collaborations, what services they offer and what they may be looking for 
 - Artists can use hashtags on their posts and specify things like the genre to attract more users, as well tag other accounts 
 
-
 ## Next Steps 
 - [ ] Everyone will come up with 10-12 user stories each over the weekend 
 - [ ] Next meeting is scheduled for Monday January 13 @ 4:00-6:00pm 
@@ -51,13 +53,11 @@
 - [ ] Victoria will create a Sprint backlog based on the Product Backlog when completed 
 - [ ] Release Planning Meeting on Thursday or Friday where we will review Sprint and Product Backlog, get feedback, split responsibilities/tasks 
 
- 
 ## Foreseeable Future 
 - Will (Lead Developer) will work with Development team to set up the back-end and a main landing page for the Android App 
 - Everyone will then split out their responsibilities and work on their own tasks 
   - Ideally will be ready before Reading Week 
 - Two additional in person meetings on Jan 20-24 to discuss, design and review the technical design for development team to begin implementing back-end 
-
 
 ## Timeline 
 | **Week** | **Dates**      | **Objective**                                                                                                      |
