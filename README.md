@@ -22,6 +22,6 @@ This is the main GitHub repository for SoundPalette. The project is split into t
 | [James Windjack](mailto:jw17rm@brocku.ca) | Assistant Developer      | Full Stack Developer |
 
 ## Folder Description
-1. Documentation - Contains assignment submissions and will contain anything planning related (EG. UI Designs)
+1. Documentation - Contains assignment submissions and anything related to planning (EG. UI Designs)
 2. Meetings - Contains information for every meeting such as date, time, agenda/objective, progress, and next steps
 3. Tutorials - Reserved for our team, contains tutorials and information regarding Android Studio.
