@@ -20,3 +20,8 @@ This is the main GitHub repository for SoundPalette. The project is split into t
 | [Kaija Sproxton](mailto:ks21lk@brocku.ca) | Documentation Specialist | Front End Developer  |
 | [William White](mailto:ww18fj@brocku.ca)  | Lead Developer           | Full Stack Developer |
 | [James Windjack](mailto:jw17rm@brocku.ca) | Assistant Developer      | Full Stack Developer |
+
+## Folder Scription
+1. Documentation - Contains assignment submissions and will contain anything planning related (EG. UI Designs)
+2. Meetings - Contains information for every meeting such as date, time, agenda/objective, progress, and next steps
+3. Tutorials - Reserved for our team, contains tutorials and information regarding Android Studio.
