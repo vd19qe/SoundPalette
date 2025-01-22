@@ -13,6 +13,14 @@
 - [x] Platform discussion 
 - [x] Project discussion  
 
+## Attendance
+- [x] Parth Chauhan
+- [x] Victoria Danh
+- [x] Prab Khokhar
+- [x] Kaija Sproxton
+- [x] William White
+- [x] James Windjack
+
 ## Introductions 
 | **Name**            | **Language**           | **Schedule**             | **Experience**                                                       |
 |---------------------|------------------------|--------------------------|---------------------------------------------------------------------|
@@ -22,8 +30,6 @@
 | **Kaija Sproxton**   | Java, Python           | 5 courses                | High performing school project/assignment experience, with a preference for documentation, reporting and writing |
 | **William White**    | C#, Java               | 5 courses                | Many years of Software Development experience                        |
 | **James Windjack**   | Java, C++, SQL         | 2 courses, working FT    | Many years of IT/HelpDesk experience at Brock, along with video tutorial & system admin experience  |
-
- 
 
 ## Role Assignments 
 | **Name**             | **Role**                |
@@ -35,21 +41,17 @@
 | **James Windjack**   | Developer               |
 | **Prab Khokhar**     | Developer               |
 
-
 ## Meeting Schedule 
 - Determined best time was Wednesday or Friday’s after 4:00pm 
 - Preferred to meet in person once a week, reoccurring on same day/time 
 
-
 ## Point of Contact  
 [Microsoft Teams](https://teams.microsoft.com/l/team/19%3AKYHcB7uAWxNosl60JBX62GZlobP0iQp_9s-SGHV0wXw1%40thread.tacv2/conversations?groupId=8461e70f-4dbe-474e-93ed-bb319f7cf969&tenantId=76ae1115-1efc-4af2-a536-e2b2443af1a0)
-
 
 # Platform Discussion 
 - Android App using Android Studio 
 - Cloud database 
 - Database Management System Project - No AI 
-
 
 ## Project Discussion 
 - Considering an online shopping platform 
@@ -59,14 +61,12 @@
 - Allows users to visit different shops 
 - Considering web scraping or referencing specific website (eg Best Buy, Staples)  
 
-
 ## Next Meeting Objectives: TBD 
 - [ ] Finalize Project 
 - [ ] Project Objective 
 - [ ] Project Purpose 
 - [ ] Project Scope 
 - [ ] Build rough draft for proposal 
-
 
 ## To-Do Before Next Meeting 
 - Everyone is to bring a project idea, or expand on the shopping platform for next meeting 
