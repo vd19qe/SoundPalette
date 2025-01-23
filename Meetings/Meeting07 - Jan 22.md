@@ -5,8 +5,7 @@
 **Location: 235 - Library Main Floor**
 
 ## Agenda 
-- [ ] Technical design
-- [ ] Database system design
+- [x] Database design
 - [ ] Set up Macbook users to database
 
 ## Objective 
@@ -14,9 +13,23 @@
 - Ideally will get to a point where we can agree on the foundational design as a group, and assign team members to complete the design.
 
 ## Attendance
-- [ ] Parth Chauhan
-- [ ] Victoria Danh
-- [ ] Prab Khokhar
-- [ ] Kaija Sproxton
-- [ ] William White
-- [ ] James Windjack
+- [x] Parth Chauhan
+- [x] Victoria Danh
+- [x] Prab Khokhar
+- [x] Kaija Sproxton
+- [x] William White
+- [x] James Windjack
+
+## Macbook Set-up
+- Was unable to successfully connect everyone
+- Will is going to look into an alternative and will try again at next meeting on Monday January 27
+
+## Database Design
+- Completed thr foundation of the database design
+- Missing:
+    - Interactions (likes, comments, saved)
+    - Direct Messaging
+    - Events
+    - Monetization
+
+![Database Design](Screenshots/DatabaseDesign.png)
