@@ -25,7 +25,7 @@
 - Will is going to look into an alternative and will try again at next meeting on Monday January 27
 
 ## Database Design
-- Completed thr foundation of the database design
+- Completed the foundation of the database design
 - Missing:
     - Interactions (likes, comments, saved)
     - Direct Messaging
