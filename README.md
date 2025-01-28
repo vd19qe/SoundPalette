@@ -9,7 +9,6 @@ This GitHub repository hosts the project for Brock University's COSC 4P02 - Soft
 This is the main GitHub repository for SoundPalette. The project is split into three additional repositories, each dedicated to a specific aspect of development:
 1. [SoundPaletteUI](https://github.com/WilliamSEWhite/SoundPaletteUI)
 2. [SoundPaletteApiServer](https://github.com/WilliamSEWhite/SoundPaletteApiServer)
-3. [SoundPaletteApiServerMac](https://github.com/GeneralEcho/SoundPaletteApiServerMac)
 
 ## Team Members
 | Team Member Name                          | Primary Role             | Secondary Role       |
