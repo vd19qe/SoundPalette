@@ -16,8 +16,8 @@ Talk about the SE process and other technical tools you are going to useList you
 To develop software requirements (product and sprint backlogs). This document will detail the system which is stated in the project proposal.Be as detailed as possiblem, you will be able to revise it slightly later
 
 ### Tasks
-- [ ] Think, discuss about the requirements (user-stories) and prepareFind a tool to manage the user-storiesInvite the TA to your release planning meeting to finalize the requirements
-- [ ] Upload all ofyour reports to your GitHub page and Brightspace. Include a breakdown of each person’s contribution
+- [x] Think, discuss about the requirements (user-stories) and prepareFind a tool to manage the user-storiesInvite the TA to your release planning meeting to finalize the requirements
+- [x] Upload all ofyour reports to your GitHub page and Brightspace. Include a breakdown of each person’s contribution
 Write your report and submit it by Sunday 19th Jan by 23:59.
 
 ### Grading
