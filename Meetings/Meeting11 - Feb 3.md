@@ -2,7 +2,7 @@
 
 **Time: 4:00pm - 6:00pm**
 
-**Location: [Microsoft Teams]([https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzI0Nzc4YjUtZDkzNS00MDc3LThkMDYtNmUyNjg5MGU1YWY2%40thread.v2/0?context=%7b%22Tid%22%3a%2276ae1115-1efc-4af2-a536-e2b2443af1a0%22%2c%22Oid%22%3a%227e74cc74-a733-484e-bc53-9dc429bcca3f%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBjN2RlYWMtZWU3Yi00OWI2LTgxYTUtZjk5OTZmODBlMTA2%40thread.v2/0?context=%7b%22Tid%22%3a%2276ae1115-1efc-4af2-a536-e2b2443af1a0%22%2c%22Oid%22%3a%227e74cc74-a733-484e-bc53-9dc429bcca3f%22%7d))**
+**Location: [Microsoft Teams]([https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzI0Nzc4YjUtZDkzNS00MDc3LThkMDYtNmUyNjg5MGU1YWY2%40thread.v2/0?context=%7b%22Tid%22%3a%2276ae1115-1efc-4af2-a536-e2b2443af1a0%22%2c%22Oid%22%3a%227e74cc74-a733-484e-bc53-9dc429bcca3f%22%7d])**
 
 ## Agenda 
 - [x] Review, Push and Commit Sprint 2 Progress
