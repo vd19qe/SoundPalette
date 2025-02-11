@@ -13,7 +13,7 @@ This is the main GitHub repository for SoundPalette. The project is split into t
 ## Team Members
 | Team Member Name                          | Primary Role             | Secondary Role       |
 |-------------------------------------------|--------------------------|----------------------|
-| [Parth Chauhan](mailto:pc19kt@brocku.ca)  | Product Owner            | Developer            |
+| [Parth Chauhan](mailto:pc19kt@brocku.ca)  | Product Owner            | Software Testing     |
 | [Victoria Danh](mailto:vd19qe@brocku.ca)  | Scrum Master             | Front End Developer  |
 | [Prab Khokhar](mailto:pk21le@brocku.ca)   | UX Designer              | Front End Developer  |
 | [Kaija Sproxton](mailto:ks21lk@brocku.ca) | Documentation Specialist | Front End Developer  |
