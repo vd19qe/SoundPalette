@@ -41,6 +41,7 @@
 - Prab and Kaija started implementing a glass appearance for the Posts, along with a gradient background
 - We will be leaning into this design and incorporating a glassmorphism UI appearance
 - Background will contain dark colours to balance the bright accent colours, and enhance the glass appearance
+- James will be working towarda arranging an appointment with a Visual Arts professor for UI input towards the end of March
 ![UI Design](Screenshots/Glassmorphism.png)
 
 ## TA Feedback
