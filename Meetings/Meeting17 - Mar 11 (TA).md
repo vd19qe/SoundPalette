@@ -37,14 +37,14 @@
 - Parth has begun the planning for all software testing and exploring different tools available. There has not been anything pushed to the GitHub repo, however he has a lot of his work stored on his personal laptop and noting any potential threats and bugs.
 
 ## Sprint 4 Responsbilities
-| Sprint # | Name               | Responsbility                      |
-|----------| ------------------ | -----------------------------------|
-| Sprint 5 | Parth              | Software Testing and Planning      |
-| Sprint 5 | Victoria           | Comments, Likes, Saved, Follows    |
-| Sprint 5 | Kaija              | Improve overall UI                 |
-| Sprint 5 | Prab               | Improve overall UI                 |
-| Sprint 5 | Will               | Database, Posts and Model creation |
-| Sprint 5 | James              | Tags (User and Posts)              |
+| Sprint # | Name               | Responsbility                                    |
+|----------| ------------------ | -------------------------------------------------|
+| Sprint 5 | Parth              | Software Testing and Planning                    |
+| Sprint 5 | Victoria           | Direct Message and Following (Front End)         |
+| Sprint 5 | Kaija              | Improve overall UI                               |
+| Sprint 5 | Prab               | Improve overall UI                               |
+| Sprint 5 | Will               | Algorithm for Posts and Following (Back End)     |
+| Sprint 5 | James              | Tags (Displaying), Addressing Bugs, Exploring S3 |
 
 ## TA Feedback
 - Had questions related the app: Inquired whether Posts will be a single type (text, photo or audio), or whether users are able to post multiple photos, or overlap audio with text.
