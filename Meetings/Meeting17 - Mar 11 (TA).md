@@ -36,7 +36,7 @@
 - Kaija and Prab were unfortunately sick during this sprint and were advised to rest and focus on other assignments and classes in the meantime. Although there is no tangible work to be shown for their efforts, they've been researching how to implement the glassmorphism design previously discussed.
 - Parth has begun the planning for all software testing and exploring different tools available. There has not been anything pushed to the GitHub repo, however he has a lot of his work stored on his personal laptop and noting any potential threats and bugs.
 
-## Sprint 4 Responsbilities
+## Sprint 5 Responsbilities
 | Sprint # | Name               | Responsbility                                    |
 |----------| ------------------ | -------------------------------------------------|
 | Sprint 5 | Parth              | Software Testing and Planning                    |
