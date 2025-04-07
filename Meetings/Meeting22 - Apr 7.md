@@ -66,10 +66,10 @@
   - isActive
      
 - **Blocked**
-  - New tabke
+  - New table
 
 - **Notifications**
-  - New tabke
+  - New table
 
 ## Sprint 7 Responsbilities
 | Sprint # | Name               | Responsbility                                                   |
