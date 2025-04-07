@@ -1,4 +1,4 @@
-**Date: Tuesday March 31**
+**Date: Monday March 31**
 
 **Time: 5:00pm - 7:30pm**
 
