@@ -57,18 +57,18 @@
 
 ## Database Updates/Changes
 - **PostModel**
-  1. backgroundHexcode
-  2. fontHexcode
-  3. tagged <UserProfileModelLite>
+  - backgroundHexcode
+  - fontHexcode
+  - tagged <UserProfileModelLite>
   
 - **Profile**
-  1. isActive
+  - isActive
      
 - **Blocked**
-  1. New tabke
+  - New tabke
 
 - **Notifications**
-  1. New tabke
+  - New tabke
 
 ## Sprint 7 Responsbilities
 | Sprint # | Name               | Responsbility                                                   |
