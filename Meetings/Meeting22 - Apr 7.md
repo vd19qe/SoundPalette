@@ -42,17 +42,18 @@
   1. Algorithm for user's homepage based on their personal preferences
      
 - **Profile**
-  1. Block another user
-  2. Private their account
-  3. Algorithm for tagged posts
+  1. Algorithm for tagged posts
+  2. Block another user
+  3. Private their account
 
 - **Posts**
   1. Implement audio posts
-  2. Ability to edit a post (includes deleting)
+  2. S3 connection
+  3. Ability to edit a post (includes deleting)
 
 - **Search**
-  1. Implement a ProfileAdapter to display searchses for users
-  2. Algorithm for searching based on term
+  1. Algorithm for searching based on term
+  2. Implement a ProfileAdapter to display searchses for users
   3. Algorithm for trending (most likes based on previous X days)
 
 ## Database Updates/Changes
