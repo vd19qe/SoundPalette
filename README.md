@@ -24,9 +24,3 @@ This is the main GitHub repository for SoundPalette. The project is split into t
 1. Documentation - Contains assignment submissions and anything related to planning (EG. UI Designs)
 2. Meetings - Contains information for every meeting such as date, time, agenda/objective, progress, and next steps
 3. Tutorials - Reserved for our team, contains tutorials and information regarding Android Studio.
-
-
-## License
-SoundPalette is licensed under the [Apache 2.0 License](LICENSE).
-
-This means you are free to use, modify, and distribute the project, even commercially, as long as you provide proper attribution and include a copy of the license.
